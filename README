@@ -1,0 +1,13 @@
+Bindings to termios library using JNA library.
+
+
+
+
+Building
+========
+
+I use maven build system, but (for now) I don't have a public repository for my code, so please download following dependencies (also from github)
+
+* commons --- my common libraries
+
+install them and then install this lib
